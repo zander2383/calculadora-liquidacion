@@ -57,8 +57,7 @@ display:none;
 }
 
 .footer {
-
-  background-color: #b0d3f4;
+  background-color: rgba(176, 211, 244, 0.5);
   text-align: center;
   padding: 15px;
   color: #888;
